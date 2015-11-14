@@ -22,7 +22,8 @@
     "url": "https://github.com/jordanMiller/mtg-bot/issues"
   },
   "homepage": "https://github.com/jordanMiller/mtg-bot",
-  "devDependencies": {
-    "slackbots": "^0.4.0"
+  "dependencies": {
+    "slackbots": "^0.4.0",
+    "sqlite3": "^3.1.1"
   }
 }
