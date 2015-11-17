@@ -1,6 +1,6 @@
 {
   "name": "mtg-bot",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "a Slack bot that retrieves magic: the gathering info.",
   "main": "lib/mtg-bot.js",
   "scripts": {
